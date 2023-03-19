@@ -1,3 +1,3 @@
-## Olá eu sou Paulo Júnior
+## Olá, me chamo Paulo Júnior 😁
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
